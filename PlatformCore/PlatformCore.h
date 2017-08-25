@@ -1,10 +1,3 @@
-//
-//  PlatformCore.h
-//  PlatformCore
-//
-//  Created by linxmap on 25/08/2017.
-//  Copyright © 2017 luvio. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 

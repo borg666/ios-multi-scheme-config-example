@@ -1,11 +1,11 @@
 import XCTest
 @testable import PlatformCore
 
-class PlatformCoreTests: XCTestCase {
+class PlatformCoreReleaseTests: XCTestCase {
     
     func testDebugEnvironment() {
         let platformCore: Core = Core()
-        XCTAssertEqual(platformCore.url, "http://test.com")
+        XCTAssertEqual(platformCore.url, "http://release.com")
     }
-
+    
 }

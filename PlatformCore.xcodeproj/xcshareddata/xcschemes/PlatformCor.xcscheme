@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B62394B41F50179500506A9F"
-               BuildableName = "PlatformCoreTests.xctest"
-               BlueprintName = "PlatformCoreTests"
-               ReferencedContainer = "container:PlatformCore.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B62394AB1F50179500506A9F"
-            BuildableName = "PlatformCore.framework"
-            BlueprintName = "PlatformCore"
-            ReferencedContainer = "container:PlatformCore.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
